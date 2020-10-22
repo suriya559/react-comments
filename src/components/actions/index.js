@@ -1,0 +1,7 @@
+const actionTypes = {
+  POST_SELECT: "SET/POST_SELECT",
+  COMMENT_SELECT: "SET/COMMENT_SELECT",
+  COMMENT_UPDATE: "UPDATE/COMMENT_UPDATE",
+};
+
+export default actionTypes;
